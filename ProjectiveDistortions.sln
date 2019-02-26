@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectiveDistortions", "ProjectiveDistortions\ProjectiveDistortions.csproj", "{ADBAC351-6904-4601-AD32-AAEA53D1B1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBAC351-6904-4601-AD32-AAEA53D1B1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBAC351-6904-4601-AD32-AAEA53D1B1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBAC351-6904-4601-AD32-AAEA53D1B1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBAC351-6904-4601-AD32-AAEA53D1B1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662334E3-21C6-4ADC-B4AF-C8D05E21ECE6}
+	EndGlobalSection
+EndGlobal
